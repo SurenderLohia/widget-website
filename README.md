@@ -1,6 +1,5 @@
 # widget-website
-Minimalistic Website for testing Chat Widget in various environments.
-
+Minimalistic Website for testing Chat Widget in various environments.<br>
 (Fork It, Use It, That’s It…)
 
 Example:
